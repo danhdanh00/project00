@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    margin-left: 50px;
+
+}
+.menu{
+    float: left;
+    margin-top: 72px;
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin-left: 60px;
+    font-size: 14px;
+
+}
+ul li a {
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
+form{
+    margin-left: 10px;
+    margin-right: 24px;
+
+}
